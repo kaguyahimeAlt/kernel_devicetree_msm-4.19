@@ -1,3 +1,5 @@
+dtb-$(CONFIG_MACH_XIAOMI_DAISY) += daisy-titanium.dtb
+dtb-$(CONFIG_MACH_XIAOMI_SAKURA) += sakura-titanium.dtb
 dtb-$(CONFIG_MACH_XIAOMI_VINCE) += vince-titanium.dtb
 dtb-$(CONFIG_MACH_XIAOMI_YSL) += ysl-titanium.dtb
 
